@@ -18,7 +18,9 @@
         <nav>
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
+		  <li><a href="about.html">Contecte</a>+211917790078 </li>
+		  <li><a href="index.html">E-mail</a>info@digitaltechnology</li>
+            <li><a href="about.html">About</a>Satellites installation, design, affordable web design, professional web design </li>
             <li class="current"><a href="services.html">Services</a></li>
           </ul>
         </nav>
